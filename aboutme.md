@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hi, I am Shreyas Jothish, machine learning engineer focused on helping institutions tech start-ups and government, to improve the effectiveness of products and understand its impact on society. To do this, I have built the expertise in natural language processing and deploying machine learning models (supervised and unsupervised).
+Hi, I am Shreyas Jothish, machine learning engineer focused on helping institutions both tech start-ups and government, to improve the effectiveness of products and understand its impact on society. To do this, I have built the expertise in natural language processing and deploying machine learning models (supervised and unsupervised).
 
 Being in telecom industry for 13 years and playing different roles ranging from software developer to system architect has taught me to collate, analyse and interpret data by means of code.
 
