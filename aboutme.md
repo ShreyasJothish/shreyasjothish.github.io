@@ -9,7 +9,7 @@ Being in telecom industry for 13 years and playing different roles ranging from 
 
 ### Professional Career
 
-I have prior experience of working with major information and communication technology companies like Wipro Ltd, Huawei Technologies and Mavenir Systems. Over the years I have played roles which included both technical and management.
+I have prior experience of working with major information and communication technology companies like **Wipro Ltd, Huawei Technologies and Mavenir Systems**. Over the years I have played roles which included both technical and management.
 
 ### Projects
 
