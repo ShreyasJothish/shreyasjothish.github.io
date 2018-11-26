@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hi, I am Shreyas Jothish, machine learning engineer focused on helping institutions both technology companies and government, to understand the impact and improve the effectiveness of products on society. To do this, I have built the expertise in natural language processing and deploying machine learning models (supervised and unsupervised).
+Hi, I am Shreyas Jothish, machine learning engineer focused on helping institutions tech start-ups and government, to improve the effectiveness of products and understand its impact on society. To do this, I have built the expertise in natural language processing and deploying machine learning models (supervised and unsupervised).
 
 Being in telecom industry for 13 years and playing different roles ranging from software developer to system architect has taught me to collate, analyse and interpret data by means of code.
 
@@ -14,4 +14,4 @@ I have prior experience of working with major information and communication tech
 ### Projects
 
 **politicallink**: I assessed the sentiment of re-tweets and quoted tweets to tweet from a prominent political personal and highlighted the risk of showcasing ones political inclination.
-This project involved python libraries tweepy (for accessing Twitter API) and textblob (for natural language processing). 
+As part of the project I used python libraries, **tweepy** for accessing Twitter API), **textblob** for natural language processing, **pandas** for data wrangling and **seaborn** for visualization.
