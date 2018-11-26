@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I am Shreyas Jothish, machine learning engineer focused on helping government institutions and tech startups to understand the impact and improve the effectiveness of products on society. To do this, I have built the expertise in natural language processing and deploying machine learning models (supervised and unsupervised).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Being in telecom industry for 13 years and playing different roles ranging from software developer to system architect has taught me to collate, analyse and interpret data by means of code.
 
-What else do you need?
+### Professional Career
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have prior experience of working with major information and communication technology companies like Wipro Ltd, Huawei Technologies and Mavenir Systems. Over the years I have played a role of both technical and management.
