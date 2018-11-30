@@ -1,4 +1,8 @@
-# Political link
+---
+layout: post
+title: Political link
+subtitle: Project Overview and Plan
+---
 
 ## Project Overview
 
