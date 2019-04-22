@@ -29,7 +29,7 @@ Up to **150** related tweets (Retweets and Quoted tweets) on **10** recent tweet
 
 * Initial Observation by plotting Trump’s tweet polarity and average of corresponding responses from people revealed overlap. However, Trump’s tweet polarity has wider spread. Also Positively polarized Trump tweet gets more positively polarized responses from others as compared to negatively polarized responses.
 
-![](https://live.staticflickr.com/65535/46747539305_d7322165ca_m.jpg)
+![](https://www.flickr.com/photos/143838881@N03/46747539305/in/dateposted-public/)
 
 * Tweet timeline analysis was done to determine this new found pattern of people’s responses following Trump’s tweet sentiment is recurrent.
 
