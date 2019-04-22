@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Relative Sentiment Analysis
-subtitle: Check impact of individual tweet sentiment to overall sentiment of responses. 
+subtitle: Check impact of individual tweet sentiment to overall sentiment of responses.
+gh-repo: ShreyasJothish/tweetsentimenttimeline
+gh-badge: [star, fork, follow]
+tags: [sentiment analysis]
 ---
 
 ## Tools
@@ -26,9 +29,13 @@ Up to **150** related tweets (Retweets and Quoted tweets) on **10** recent tweet
 
 * Initial Observation by plotting Trump’s tweet polarity and average of corresponding responses from people revealed overlap. However, Trump’s tweet polarity has wider spread. Also Positively polarized Trump tweet gets more positively polarized responses from others as compared to negatively polarized responses.
 
+!()[https://live.staticflickr.com/65535/46747539305_d7322165ca_m.jpg]
+
 * Tweet timeline analysis was done to determine this new found pattern of people’s responses following Trump’s tweet sentiment is recurrent.
 
 * The transition of average polarity of people responses does seem to follow abrupt polarity switching of Trump’s tweet. Sometimes within minutes. For better visualization, I aggregated sum of tweet polarity by day.
+
+!()[https://live.staticflickr.com/65535/46747539335_446be06c26_m.jpg]
 
 ## Conclusion
 
