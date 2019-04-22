@@ -6,8 +6,11 @@ subtitle: Check impact of individual tweet sentiment to overall sentiment of res
 
 ## Tools
 python
+
 plot.ly
+
 TextBlob API
+
 Tweepy API
 
 ## Project Overview
