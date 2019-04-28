@@ -8,7 +8,7 @@ title: Blogs
 Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Hyper-parameter optimization or tuning is the problem of choosing a set of optimal hyper-parameters for a learning algorithm. These impact model validation more as compared to choosing a particular model. Here I provide a step by step overview on Feature Engineering and Hyper Parameter Tuning.
 
 ### [Supervised Machine Learning: Model Validation, a Step by Step Approach](https://towardsdatascience.com/supervised-machine-learning-model-validation-a-step-by-step-approach-771109ae0253)
-![](/img/blog_3_img_1.jpeg)
+![](/img/blog_3_img_1.png)
 
 Model validation is the process of evaluating a trained model on test data set. This provides the generalization ability of a trained model. Here I provide a step by step approach to complete first iteration of model validation in minutes.
 
