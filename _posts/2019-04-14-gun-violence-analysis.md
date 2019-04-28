@@ -2,7 +2,7 @@
 layout: post
 title: Gun Violence Analysis
 subtitle: Data analysis and visualization on all recorded gun violence incidents in the US between January 2013 and March 2018.
-image: /img/blog_2_img_1.png
+image: /img/gunviolence/gunviolence_img_4.png
 gh-repo: ShreyasJothish/gunviolencedata
 gh-badge: [star, fork, follow]
 tags: [data analysis, data visualization]
