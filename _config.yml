@@ -23,7 +23,7 @@ description: Portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  Blogs: "blog"
+  Blog: "blog"
   About Me: "aboutme"
   
 #  Resources:
