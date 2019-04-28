@@ -2,7 +2,7 @@
 layout: post
 title: Relative Sentiment Analysis
 subtitle: Check impact of individual tweet sentiment to overall sentiment of responses.
-image: /img/blog_2_img_1.png
+image: /img/blog/blog_2_img_1.png
 gh-repo: ShreyasJothish/tweetsentimenttimeline
 gh-badge: [star, fork, follow]
 tags: [sentiment analysis]
