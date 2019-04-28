@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogs
+title: Blog
 ---
 
 ### [Supervised Machine Learning: Feature Engineering and Hyper Parameter Tuning](https://towardsdatascience.com/supervised-machine-learning-feature-engineering-and-hyper-parameter-tuning-a3da583dd7b9)
