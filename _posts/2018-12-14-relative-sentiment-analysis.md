@@ -8,8 +8,6 @@ gh-badge: [star, fork, follow]
 tags: [sentiment analysis]
 ---
 
-## Project Overview
-
 It is often seen the post on social media is responded back with similar tone. For example a social media post with positive sentiment gets as overall positive response and similarly a social media post with negative sentiment gets an overall negative response.
 
 Here I have tried to use tweets from prominent personalities and analyse the impact of these tweets on overall sentiment of the responses received. 
