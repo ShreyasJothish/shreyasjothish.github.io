@@ -8,9 +8,7 @@ gh-badge: [star, fork, follow]
 tags: [data analysis, data visualization]
 ---
 
-It is often seen the post on social media is responded back with similar tone. For example a social media post with positive sentiment gets as overall positive response and similarly a social media post with negative sentiment gets an overall negative response.
-
-Here I have tried to use tweets from prominent personalities and analyse the impact of these tweets on overall sentiment of the responses received. 
+James Ko, has curated detailed data on gun violence based on [Gun Violence Archive's](https://www.gunviolencearchive.org) website which has more than 260K records of gun violence incidents, with detailed information about each incident, available in CSV format. As part of Lambda School’s build week project I analysed and visualized the gun violence data. 
 
 ## Project Description
 
