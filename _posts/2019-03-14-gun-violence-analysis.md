@@ -8,11 +8,11 @@ gh-badge: [star, fork, follow]
 tags: [data analysis, data visualization]
 ---
 
-James Ko, has curated detailed data on gun violence based on [Gun Violence Archive's](https://www.gunviolencearchive.org) website which has more than 260K records of gun violence incidents, with detailed information about each incident, available in CSV format. As part of Lambda School’s build week project I analysed and visualized the gun violence data. 
+James Ko, has curated detailed data on gun violence based on [Gun Violence Archive's](https://www.gunviolencearchive.org) website which has more than 260K records of gun violence incidents, with detailed information about each incident, available in CSV format. 
 
 ## Project Description
 
-* Identify few prominent personalities and get their twitter handle like *@realDonaldTrump* (Donald Trump), *@narendramodi* (Narendra Modi), *@TheEllenShow* (Ellen DeGeneres) or others.
+* Gun violence analysis was done as part of Lambda School’s build week and I was responsible for data analysis and visualization.
 
 * Web scrap through their recent tweets and fetch related tweets to know the user engagement.
 Up to **150** related tweets (Retweets and Quoted tweets) on **10** recent tweets is being used for analysis.
