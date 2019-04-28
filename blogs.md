@@ -3,7 +3,9 @@ layout: page
 title: Blogs
 ---
 
-[Supervised Machine Learning: Feature Engineering and Hyper Parameter Tuning](https://towardsdatascience.com/supervised-machine-learning-feature-engineering-and-hyper-parameter-tuning-a3da583dd7b9)
+### [Supervised Machine Learning: Feature Engineering and Hyper Parameter Tuning](https://towardsdatascience.com/supervised-machine-learning-feature-engineering-and-hyper-parameter-tuning-a3da583dd7b9)
+
+Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Hyper-parameter optimization or tuning is the problem of choosing a set of optimal hyper-parameters for a learning algorithm. These impact model validation more as compared to choosing a particular model. Here I provide a step by step overview on Feature Engineering and Hyper Parameter Tuning.
 
 ### [Supervised Machine Learning: Model Validation, a Step by Step Approach](https://towardsdatascience.com/supervised-machine-learning-model-validation-a-step-by-step-approach-771109ae0253)
 ![](/img/blog_3_img_1.png)
