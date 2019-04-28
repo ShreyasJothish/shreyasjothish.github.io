@@ -31,7 +31,7 @@ Up to **150** related tweets (Retweets and Quoted tweets) on **10** recent tweet
 
 * The transition of average polarity of people responses does seem to follow abrupt polarity switching of Trump’s tweet. Sometimes within minutes. For better visualization, I aggregated sum of tweet polarity by day.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/143838881@N03/46747539335/in/dateposted-public/" title="sentiment analysis time series"><img src="https://live.staticflickr.com/65535/46747539335_446be06c26_b.jpg" width="1024" height="496" alt="sentiment analysis time series"></a>
+![](/img/blog_2_img_2.png)
 
 ## Conclusion
 
