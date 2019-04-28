@@ -8,9 +8,6 @@ gh-badge: [star, fork, follow]
 tags: [sentiment analysis]
 ---
 
-## Tools
-python, plot.ly, TextBlob API, Tweepy API
-
 ## Project Overview
 
 It is often seen the post on social media is responded back with similar tone. For example a social media post with positive sentiment gets as overall positive response and similarly a social media post with negative sentiment gets an overall negative response.
@@ -41,6 +38,9 @@ Up to **150** related tweets (Retweets and Quoted tweets) on **10** recent tweet
 ## Conclusion
 
 From the analysis it does appear the people’s response to Trump tweets follows the tone of original tweet to great extent.
+
+## Tools
+python, plot.ly, TextBlob API, Tweepy API
 
 ## Reference List
 
