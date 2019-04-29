@@ -28,34 +28,25 @@ James Ko, has curated detailed data on gun violence based on [Gun Violence Archi
 * Scatter plot of top 10 states with respect to mass shooting incidents across years is as shown below.
 ![](/img/gunviolence/gunviolence_img_2.PNG)
 
-* Heat map of mass shooting incidents was plotted across entire country. Heat map was built using Mapbox.
+* Heat map of mass shooting incidents was plotted across entire country.
 ![](/img/gunviolence/gunviolence_img_3.PNG)
 
-* This gave the ability to zoom into individual shooting incident and get the specific information on the same as displayed below.
-For example 2017 Las Vegas Mandalay Bay shooting incident details are listed below.
+* Heat map was built using Mapbox. This gave the ability to zoom into individual shooting incident and get the specific information on the same as displayed below. For example 2017 Las Vegas Mandalay Bay shooting incident details are listed below.
 ![](/img/gunviolence/gunviolence_img_4.PNG)
 
-## Conclusion
-
-From the analysis it does appear the people’s response to Trump tweets follows the tone of original tweet to great extent.
-
 ## Tools
-python, plot.ly, TextBlob API, Tweepy API
+python, geocoder (LocationIQ API), dash, dask, Mapbox API
 
 ## Reference List
 
 ### API:
 
-> [Twitter API Documentation](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object)
+> [geocoder (LocationIQ API) Reference](https://geocoder.readthedocs.io/providers/LocationIQ.html)
 
-> [Tweepy API Reference](https://tweepy.readthedocs.io/en/3.7.0/api.html)
+> [Mapbox API](https://www.mapbox.com/)
 
-> [TextBlob API Reference](https://textblob.readthedocs.io/en/dev/api_reference.html#module-textblob.base)
+### Data Source:
 
-> [Plotly](https://plot.ly)
+> [Gun Violence Data](https://www.kaggle.com/jameslko/gun-violence-data)
 
-### Blogs:
-
-> [Twitter API Blog](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
-
-> [Twitter Sentiment Analysis Blog](https://github.com/llSourcell/twitter_sentiment_challenge/blob/master/demo.py)
+> [Gun Violence Archive](https://www.gunviolencearchive.org/)
