@@ -22,7 +22,7 @@ James Ko, has curated detailed data on gun violence based on [Gun Violence Archi
 * Choropleth map across gun violence across different states is as shown below.
 ![](/img/gunviolence/gunviolence_img_1.PNG)
 
-* Scatter plot of top 10 states with respect to mass shooting incidents across states is as shown below.
+* Scatter plot of top 10 states with respect to mass shooting incidents across years is as shown below.
 ![](/img/gunviolence/gunviolence_img_2.PNG)
 
 
