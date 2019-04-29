@@ -15,6 +15,7 @@ James Ko, has curated detailed data on gun violence based on [Gun Violence Archi
 * Gun violence analysis was carried out as part of Lambda School’s build week and I was responsible for data analysis and visualization.
 
 * The original data set needed data wrangling get the summary. Some of the important steps carried out are listed below.
+
 > Few of the incidents like 2017 Las Vegas Mandalay Bay shooting needed to be handled manually.
 
 > Information across participant features listed needed to be consolidated together for clear understanding of data.
@@ -27,11 +28,11 @@ James Ko, has curated detailed data on gun violence based on [Gun Violence Archi
 * Scatter plot of top 10 states with respect to mass shooting incidents across years is as shown below.
 ![](/img/gunviolence/gunviolence_img_2.PNG)
 
-
-
-
-
+* Heat map of mass shooting incidents was plotted across entire country. Heat map was built using Mapbox.
 ![](/img/gunviolence/gunviolence_img_3.PNG)
+
+* This gave the ability to zoom into individual shooting incident and get the specific information on the same as displayed below.
+For example 2017 Las Vegas Mandalay Bay shooting incident details are listed below.
 ![](/img/gunviolence/gunviolence_img_4.PNG)
 
 ## Conclusion
