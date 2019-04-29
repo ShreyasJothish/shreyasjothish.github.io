@@ -47,7 +47,9 @@ python, geocoder (LocationIQ API), dash, dask, Mapbox API
 
 > [geocoder (LocationIQ API) Reference](https://geocoder.readthedocs.io/providers/LocationIQ.html)
 
-> [Mapbox API](https://www.mapbox.com/)
+> [dash](https://plot.ly/products/dash/)
+
+> [Mapbox](https://www.mapbox.com/)
 
 ### Data Source:
 
