@@ -34,7 +34,7 @@ James Ko, has curated detailed data on gun violence based on [Gun Violence Archi
 
 ![](/img/gunviolence/gunviolence_img_3.PNG)
 
-* Heat map was built using Mapbox. This gave the ability to zoom into individual shooting incident and get the specific information on the same as displayed below. For example 2017 Las Vegas Mandalay Bay shooting incident details are listed below.
+* Heat map was built using Mapbox. This gave the ability to zoom into individual shooting incident and get the specific information on the same. For example 2017 Las Vegas Mandalay Bay shooting incident details are listed below.
 
 ![](/img/gunviolence/gunviolence_img_4.PNG)
 
