@@ -16,7 +16,9 @@ James Ko, has curated detailed data on gun violence based on [Gun Violence Archi
 
 * The original data set needed data wrangling get the summary. Some of the important steps carried out are listed below.
 > Few of the incidents like 2017 Las Vegas Mandalay Bay shooting needed to be handled manually.
+
 > Information across participant features listed needed to be consolidated together for clear understanding of data.
+
 > Many location information with respect to individual shooting incidents were missing. So using geocoder API the latitude and longitude were retrieved and merged.
 
 * Choropleth map across gun violence across different states is as shown below.
