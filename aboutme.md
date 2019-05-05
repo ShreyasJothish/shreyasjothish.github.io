@@ -10,4 +10,4 @@ Love being part of the Data Science revolution and making significant contributi
 
 ### Professional Career
 
-I have prior experience of working with major Information and Communication Technology (ICT) companies like **Wipro Ltd, Huawei Technologies** and **Mavenir Systems**. Over the years I have played roles which included both technical and management. For detailed information please check my [LinkedIn](https://www.linkedin.com/in/shreyasjothish) profile
+I have prior experience of working with major Information and Communication Technology (ICT) companies like **Wipro Ltd, Huawei Technologies** and **Mavenir Systems**. Over the years I have played roles which included both technical and management. For additional information please check my [LinkedIn](https://www.linkedin.com/in/shreyasjothish) profile
