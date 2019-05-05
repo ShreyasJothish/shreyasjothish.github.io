@@ -2,7 +2,7 @@
 layout: post
 title: Picasso Painted It
 subtitle: Neural style transfer on images.
-image: /img/picassopaintedit/newyork_skyline_picasso_version.png
+image: '/img/picassopaintedit/transformed image.png'
 gh-repo: ShreyasJothish/picassopaintedit
 gh-badge: [star, fork, follow]
 tags: [data analysis, data visualization]
@@ -23,13 +23,17 @@ Here we used Pablo Picasso's images are used as style reference.
 
 > deeptransform - Implementation of deeptransform based on [Neural Style Transfer with tf.keras](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb) and is handled asynchronously using flask_celery.
 
-**Original Image:**
+**Content Image:**
 
-![](/img/picassopaintedit/newyork_skyline.png)
+![](/img/picassopaintedit/peacock.png)
+
+**Style Image:**
+
+![]('/img/picassopaintedit/style image.jpg')
 
 **Transformed Image:**
 
-![](/img/picassopaintedit/newyork_skyline_picasso_version.png)
+![]('/img/picassopaintedit/transformed image.png')
 
 ## Tools
 python, celery, tensorflow, keras, DeepAI API
