@@ -8,7 +8,7 @@ gh-badge: [star, fork, follow]
 tags: [neural style transfer]
 ---
 
-Neural style transfer is a deep learning technique to compose images in the style of another image. This outlined in Leon A. Gatys’ paper, A Neural Algorithm of Artistic Style.
+Neural style transfer is a deep learning technique to compose images in the style of another image. Neural style transfer is based on Leon A. Gatys’ paper, [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576).
 
 ## Project Description
 
