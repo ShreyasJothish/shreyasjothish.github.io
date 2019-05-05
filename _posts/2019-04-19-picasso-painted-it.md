@@ -24,9 +24,11 @@ Here we used Pablo Picasso's images are used as style reference.
 > deeptransform - Implementation of deeptransform based on [Neural Style Transfer with tf.keras](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb) and is handled asynchronously using flask_celery.
 
 **Original Image:**
+
 ![](/img/picassopaintedit/newyork_skyline.png)
 
 **Transformed Image:**
+
 ![](/img/picassopaintedit/newyork_skyline_picasso_version.png)
 
 ## Tools
