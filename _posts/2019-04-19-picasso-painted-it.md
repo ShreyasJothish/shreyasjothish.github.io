@@ -12,10 +12,11 @@ Neural style transfer is a deep learning technique to compose images in the styl
 
 ## Project Description
 
-* This project was carried out as part of Lambda School’s build week. Full stack developers and Data Scientists worked together to support neural style transfer of images.
-Here we used Pablo Picasso's images are used as style reference.
+* This project was carried out as part of Lambda School’s build week. Full stack developers and Data scientists worked together to support neural style transfer of images. 
 
-* I was responsible for supporting neural style transformation API to be used by web team.
+* We used Pablo Picasso's images are used as style reference. You can try the live application [Picasso Painted It](https://picasso-frontend.netlify.com)
+
+* I was responsible for developing neural style transformation API.
 
 * This application supports neural style transfer on images in two modes.
 
@@ -29,11 +30,11 @@ Here we used Pablo Picasso's images are used as style reference.
 
 **Style Image:**
 
-![]('/img/picassopaintedit/style image.jpg')
+![](/img/picassopaintedit/style image.jpg)
 
 **Transformed Image:**
 
-![]('/img/picassopaintedit/transformed image.png')
+![](/img/picassopaintedit/transformed image.png)
 
 ## Tools
 python, celery, tensorflow, keras, DeepAI API
