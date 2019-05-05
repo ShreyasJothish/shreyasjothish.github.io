@@ -45,7 +45,7 @@ python, celery, tensorflow, keras, DeepAI API
 
 > [DeepAI Neural Style API](https://deepai.org/api-docs/#neural-style)
 
-### Reference:
+### Code:
 
 > [Neural Style Transfer with tf.keras](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb) and is handled asynchronously using flask_celery.
 
