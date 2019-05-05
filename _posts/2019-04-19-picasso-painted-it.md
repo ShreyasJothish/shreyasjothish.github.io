@@ -30,11 +30,11 @@ Neural style transfer is a deep learning technique to compose images in the styl
 
 **Style Image:**
 
-![](/img/picassopaintedit/style image.jpg)
+![](/img/picassopaintedit/style_image.jpg)
 
 **Transformed Image:**
 
-![](/img/picassopaintedit/transformed image.png)
+![](/img/picassopaintedit/transformed_image.png)
 
 ## Tools
 python, celery, tensorflow, keras, DeepAI API
