@@ -2,7 +2,7 @@
 layout: post
 title: Picasso Painted It
 subtitle: Neural style transfer on images.
-image: '/img/picassopaintedit/transformed image.png'
+image: /img/picassopaintedit/transformed_image.png
 gh-repo: ShreyasJothish/picassopaintedit
 gh-badge: [star, fork, follow]
 tags: [neural style transfer]
@@ -26,7 +26,7 @@ Neural style transfer is a deep learning technique to compose images in the styl
 
 **Content Image:**
 
-![](/img/picassopaintedit/peacock.png)
+![](/img/picassopaintedit/content_image.jpg)
 
 **Style Image:**
 
