@@ -5,7 +5,7 @@ subtitle: Neural style transfer on images.
 image: '/img/picassopaintedit/transformed image.png'
 gh-repo: ShreyasJothish/picassopaintedit
 gh-badge: [star, fork, follow]
-tags: [data analysis, data visualization]
+tags: [neural style transfer]
 ---
 
 Neural style transfer is a deep learning technique to compose images in the style of another image. This outlined in Leon A. Gatys’ paper, A Neural Algorithm of Artistic Style.
