@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Picasso Painted It
-subtitle: Neural style transfer on images.
+subtitle: Application that creates a neural style transfer of images.
 image: /img/picassopaintedit/transformed_image.png
 gh-repo: ShreyasJothish/picassopaintedit
 gh-badge: [star, fork, follow]
