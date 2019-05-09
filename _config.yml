@@ -24,7 +24,8 @@ description: Portfolio
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  About Me / Contact: "aboutme"
+  About Me: "aboutme"
+  Contact: "contact"
   
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
