@@ -3,11 +3,10 @@ layout: page
 title: About me
 ---
 
-Hi, I am Shreyas, Data Scientist with hands on experience with Data Visualizations, Data Wrangling, Statistical Analysis, Dimensionality Reduction Techniques, Clustering, Linear and Advanced Regression, Gradient Descent, Model Validation, SQL, Decision Trees, Random Forests, Gradient Boosting.
-Basic understanding of AWS, Scala, Spark, Natural Language Processing, Neural Networks and Deep Learning.
+Hi, I am Shreyas, a Data Scientist with hands on experience with Data Visualizations, Data Wrangling, Statistical Analysis, Dimensionality Reduction Techniques, Clustering, Linear and Advanced Regression, Gradient Descent, Model Validation, SQL, Decision Trees, Random Forests, Gradient Boosting. In addition, I have a foundational understanding of AWS, Scala, Spark, Natural Language Processing, Neural Networks and Deep Learning.
 
-Love being part of the Data Science revolution and making significant contribution to improve the overall efficiency and quality of life.
+I love being part of the Data Science revolution and making significant contributions to improve the overall efficiency and quality of life.
 
 ### Professional Career
 
-I have prior experience of working with major Information and Communication Technology (ICT) companies like **Wipro Ltd, Huawei Technologies** and **Mavenir Systems**. Over the years I have played roles which included both technical and management. For additional information please check my [LinkedIn](https://www.linkedin.com/in/shreyasjothish) profile
+I have prior experience of working with major Information and Communication Technology (ICT) companies like **Wipro Ltd**, **Huawei Technologies** and **Mavenir Systems**. Over the years I have played in roles which included both technical and management skillsets. For additional information please check my LinkedIn profile.
