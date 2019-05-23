@@ -14,7 +14,7 @@ Neural style transfer is a deep learning technique to compose image in the style
 
 * This project was carried out as part of Lambda School’s build week. Full stack developers and Data scientists worked together to support neural style transfer of images. 
 
-* Pablo Picasso's images are used as style reference. The live application is hosted on netlify. [Picasso Painted It](https://picasso-frontend.netlify.com)
+* Pablo Picasso's images are used as style reference. The [Picasso Painted It](https://picasso-frontend.netlify.com) application is hosted on netlify. 
 
 * I was responsible for developing neural style transformation APIs.
 
