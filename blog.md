@@ -3,6 +3,13 @@ layout: page
 title: Blog
 ---
 
+## [Deploying a Flask Application on AWS Elastic Beanstalk via CLI](https://towardsdatascience.com/deploying-a-flask-application-on-aws-elastic-beanstalk-via-cli-c0e93548472e)
+#### 23 May 2019
+
+Present back end data analysis in an easy to consume APIs with Flask and Elastic Beanstalk.
+![](/img/blog/blog_5_img_1.png)
+
+
 ## [Supervised Machine Learning: Feature Engineering and Hyper Parameter Tuning](https://towardsdatascience.com/supervised-machine-learning-feature-engineering-and-hyper-parameter-tuning-a3da583dd7b9)
 #### 7 Feb 2019
 
